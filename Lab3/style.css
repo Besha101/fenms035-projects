@@ -1,0 +1,111 @@
+
+body{
+
+    margin: auto;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    height: 170px;
+}
+
+.centered {
+    display: flex;
+}
+
+.box {
+    width: 480px; /* Adjust according to your needs */
+    height: 170px; /* Adjust according to your needs */
+    background-color: lightpink;
+}
+
+.box1 {
+
+    width: 150px;
+    height: 170px;
+
+}
+
+.aboutMeText{
+
+
+    margin: auto;
+    width: 630px;
+    background-color: white;
+    display: flow;
+
+}
+.Images{
+
+    margin: auto;
+    width: 630px;
+    background-color: whitesmoke;
+    display: flow;
+    align-content: center;
+
+}
+
+.fleurImg{
+
+    padding: 10px;
+    height: 50px;
+    width: 100px;
+    margin: auto;
+
+}
+
+.NSOtext{
+    padding: 10px;
+    font-size: 50px;
+    margin: auto;
+    font-family: Arial;
+}
+
+.img1{
+
+    margin: auto;
+    height: 100%;
+    width: 100%;
+
+}
+
+.images111{
+    margin: auto;
+    width: 207px;
+    height: 180px;
+
+}
+
+.image1{
+
+    width: 210px;
+    height: 180px;
+    margin: auto;
+}
+
+.image2{
+
+    width: 210px;
+    height: 180px;
+    margin: auto;
+}
+
+.image3{
+
+    width: 210px;
+    height: 180px;
+    margin: auto;
+}
+
+.Footer{
+
+
+    margin: auto;
+    width: 630px;
+    height: 180px;
+    background-color: lightpink;
+    display: flow;
+
+}
