@@ -8144,7 +8144,7 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #1089ff; }
+  color: mediumpurple; }
   a:hover, a:focus {
     text-decoration: none !important;
     outline: none !important;
@@ -8278,8 +8278,8 @@ textarea.form-control {
     border-color: mediumpurple !important;
     color: #fff; }
     .btn.btn-primary:hover, .btn.btn-primary:focus {
-      border-color: #006fdc !important;
-      background: #006fdc !important; }
+      border-color: mediumpurple !important;
+      background: mediumpurple !important; }
 
 #contactForm .error {
   color: red;
