@@ -8279,7 +8279,7 @@ textarea.form-control {
     color: #fff; }
     .btn.btn-primary:hover, .btn.btn-primary:focus {
       border-color: mediumpurple !important;
-      background: rebeccapurple !important; }
+      background: mediumpurple !important; }
 
 #contactForm .error {
   color: red;
