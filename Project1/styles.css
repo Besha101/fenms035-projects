@@ -49,7 +49,7 @@ body{
 .navbar {
 
     background-color: white;
-    overflow: auto;
+    overflow: 0 auto;
     float: right;
     width: fit-content;
 
